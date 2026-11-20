@@ -9,7 +9,7 @@ const StartScreen = () => {
   return (
     <div id="start-screen">
       <h1>
-        Kuki's top metal music of 2025 
+        Kuki's top rock and metal music of 2026
       </h1>
       <img className="start-img" src="image.jpg" />
       <CardButton buttonText="Start" changeSlide={start} />
