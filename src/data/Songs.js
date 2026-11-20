@@ -105,9 +105,9 @@ let songs = [
   },
   {
     artist: "From Ashes To New",
-    name: "Falling From Heaven",
+    name: "(Not) Psycho",
     album: "Reflections",
-    link: "https://www.youtube.com/watch?v=59B-skjNbG8",
+    link: "https://www.youtube.com/watch?v=Yd3CkHupEhE",
   },
   {
     artist: "Imminence",
