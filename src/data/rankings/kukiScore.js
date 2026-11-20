@@ -1,55 +1,85 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const kukiScore = {
-  "1x1": 1,
+  "1x1": 37,
   "Afraid of the Dark": 2,
-  "All For You": 3,
-  "Always Let You Down": 4,
-  "Arsenal": 5,
-  "Bitter": 6,
-  "Black Sheep": 7,
-  "Born From Nothing": 8,
-  "Bull Dominion": 9,
-  "Control": 10,
-  "Crucified": 11,
-  "Cryogen": 12,
-  "Cut": 13,
-  "Cyanide": 14,
-  "Dead Inside of Me": 15,
-  "Dehumanized": 16,
-  "Dirt": 17,
-  "EX-HUMANITY": 18,
-  "Falling From Heaven": 19,
-  "False Light": 20,
-  "Fury": 21,
-  "Ghosts": 22,
-  "Giving In": 23,
-  "Godtier": 24,
-  "Hive Mind": 25,
-  "Horsemen": 26,
-  "Hunger of the Beast": 27,
-  "If The Sun Burns Out Tonight": 28,
-  "In Your Name": 29,
-  "Joseph": 30,
-  "La Promesa": 31,
-  "Landfall": 32,
-  "LAST BREATH": 33,
+  "All For You": 40,
+  "Always Let You Down": 21,
+  "Arsenal": 43,
+  "Bitter": 7,
+  "Black Sheep": 33,
+  "Born From Nothing": 23,
+  "Bull Dominion": 3,
+  "Control": 41,
+  "Crucified": 10,
+  "Cryogen": 5,
+  "Cut": 49,
+  "Cyanide": 39,
+  "Dead Inside of Me": 44,
+  "Dehumanized": 12,
+  "Dirt": 32,
+  "EX-HUMANITY": 31,
+  "(Not) Psycho": 4,
+  "False Light": 22,
+  "Fury": 45,
+  "Ghosts": 8,
+  "Giving In": 26,
+  "Godtier": 35,
+  "Hive Mind": 36,
+  "Horsemen": 6,
+  "Hunger of the Beast": 46,
+  "If The Sun Burns Out Tonight": 30,
+  "In Your Name": 20,
+  "Joseph": 13,
+  "La Promesa": 18,
+  "Landfall": 38,
+  "LAST BREATH": 28,
   "Last Goodbye": 34,
-  "Let The Good Times Roll": 35,
-  "Machine": 36,
-  "Mr. God": 37,
-  "No Place Like Home": 38,
-  "P a r a d 0 x 1 c": 39,
-  "Paralyzed": 40,
-  "Play Dead": 41,
-  "Pure Ecstasy": 42,
-  "Reward the Scars": 43,
-  "Sanctuary": 44,
-  "Scream": 45,
-  "See U In Hell": 46,
-  "Social Apocalypse": 47,
-  "Something Wicked": 48,
-  "Time Will Tell": 49,
-  "Without You": 50,
+  "Let The Good Times Roll": 19,
+  "Machine": 14,
+  "Mr. God": 48,
+  "No Place Like Home": 1,
+  "P a r a d 0 x 1 c": 24,
+  "Paralyzed": 25,
+  "Play Dead": 11,
+  "Pure Ecstasy": 15,
+  "Reward the Scars": 17,
+  "Sanctuary": 42,
+  "Scream": 50,
+  "See U In Hell": 47,
+  "Social Apocalypse": 9,
+  "Something Wicked": 27,
+  "Time Will Tell": 16,
+  "Without You": 29,
 };
 
 export default kukiScore;
