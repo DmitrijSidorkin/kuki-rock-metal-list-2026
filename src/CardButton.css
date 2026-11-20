@@ -1,0 +1,27 @@
+.entry-button {
+  background: linear-gradient(180deg, #1a1a22 0%, #121218 100%);
+  width: 260px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: inherit;
+  letter-spacing: 1px;
+  color: #d0d0d0;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-transform: uppercase;
+}
+
+.entry-button:hover {
+  background: linear-gradient(180deg, #2a2a36 0%, #1e1e28 100%);
+  border-color: rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  transform: translateY(-1px);
+}
+
+.entry-button:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
