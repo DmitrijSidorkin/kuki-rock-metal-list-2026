@@ -165,7 +165,7 @@ let songs = [
   },
   {
     artist: "Vana",
-    name: "In Your name",
+    name: "In Your Name",
     album: "Bleeding Heart",
     link: "https://www.youtube.com/watch?v=kwt_uvey4wA",
   },
@@ -301,6 +301,7 @@ let songs = [
   album: "Single",
   link: "https://www.youtube.com/watch?v=s1s2E6hXU_M",
 },
+
 ];
 
 
